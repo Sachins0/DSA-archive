@@ -1,4 +1,4 @@
-# Middle of the Linked List (LeetCode)
+# Valid Parentheses (LeetCode)
 Link: https://leetcode.com/problems/valid-parentheses/description/
 
 Solution - 
